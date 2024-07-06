@@ -1,0 +1,14 @@
+*.iml
+.idea/
+.vscode/
+.DS_Store
+/build
+/.next
+/.vscode
+/.idea
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
